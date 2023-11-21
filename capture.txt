@@ -1,0 +1,66 @@
+# # Zoom 02 - CLOSEST so far
+    # for i in range(num_segments):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
+    # x = -1.0 # traverse backwards to 0
+    # x += 1/(num_segments - 1) 
+    # for i in range(num_segments):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
+    
+    # # Zoom 03
+    # for i in range(num_segments):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
+    
+    # # Zoom 04
+    # for i in range(num_segments):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
+    # x = -1.0 # traverse backwards to 0
+    # # x += 1/(num_segments - 1) 
+    # for i in range(num_segments):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
+    
+    # Zoom 04
+    # x = -1.0 
+    # for i in range((num_segments*2) -1):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
+    # x = -1.0 # traverse backwards to 0
+    # # x += 1/(num_segments - 1) 
+    # for i in range(num_segments - 1):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
+    
+    
+    # x = -1.0 # traverse backwards to 0
+    # # x += 1/(num_segments - 1) 
+    # for i in range(num_segments - 1):
+    #     print("current pan:",x)
+    #     ptzControl.move_abspantilt(x, y, z, v)
+    #     time.sleep(5)
+    #     ptzControl.capture()
+    #     x += 1/(num_segments - 1)
